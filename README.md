@@ -13,3 +13,5 @@ You can copy and paste the details of flows.json or simply download and import i
 For webpage: https://node-red-zkj.eu-gb.mybluemix.net/ui/#!/0?socketid=mqTGd9p0xwC51l4HAAAX
 
 YouTube link: https://youtu.be/SlyBzAgL4M8
+
+Feedback link: https://youtu.be/JWadRj1cPY0
